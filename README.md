@@ -1,6 +1,4 @@
-# TPE-TIO
-
-## Trabajo Práctico Especial - Git
+# Trabajo Práctico Especial - Git
 ### Tecnología de la Información en las Organizaciones – 2021
 
 ### Presentación
