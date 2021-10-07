@@ -3,7 +3,7 @@
 ## Trabajo Práctico Especial - Git
 ### Tecnología de la Información en las Organizaciones – 2021
 
-###Presentación
+### Presentación
 --------------------------------
 ● Informe escrito sobre el trabajo realizado.
 ● Fecha de Entrega: 16/oct/2021 hasta las 23:59.
