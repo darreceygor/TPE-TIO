@@ -1,4 +1,5 @@
 <?php
+include_once('../templates/header.php') ;
 
    function renderForm(){
        echo '
@@ -31,3 +32,6 @@
         echo "Acceso denegado";
     }
 }
+
+include_once('../templates/footer.php') ;
+

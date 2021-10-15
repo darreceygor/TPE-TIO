@@ -1,4 +1,6 @@
 <?php
+include_once('../templates/header.php') ;
+
    function renderForm(){
        echo '
            <h2>Registro</h2>
@@ -26,3 +28,4 @@
     $query->execute([$userEmail,$userPassword]);
   
 }
+include_once('../templates/footer.php') ;
