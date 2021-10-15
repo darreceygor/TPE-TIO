@@ -20,14 +20,6 @@ function renderTable(){
   
   
     </tr>
-  
-    <tr>
-  
-      <td>Roberto Hernandez</td>
-  
-      <td>25</td>
-  
-    </tr>
 
     <tr>
   
