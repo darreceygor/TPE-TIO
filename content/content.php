@@ -28,6 +28,14 @@ function renderTable(){
       <td>25</td>
   
     </tr>
+
+    <tr>
+  
+    <td>Rodrigo Rodriguez</td>
+
+    <td>19</td>
+
+  </tr>
     
     ';
 }
