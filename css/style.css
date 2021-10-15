@@ -6,3 +6,10 @@ a:hover{
     color: black;
 }
 
+table{
+    background-color: rgb(37, 37, 109);
+}
+table td{
+    background-color: rgb(8, 48, 35);
+}
+

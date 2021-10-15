@@ -20,14 +20,14 @@ function renderTable(){
   
   
     </tr>
-  
+
     <tr>
   
-      <td>Roberto Hernandez</td>
-  
-      <td>25</td>
-  
-    </tr>
+    <td>Rodrigo Rodriguez</td>
+
+    <td>19</td>
+
+  </tr>
     
     ';
 }
