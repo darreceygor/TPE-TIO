@@ -3,13 +3,13 @@ a{
 }
 
 a:hover{
-    color: black;
+    color: white;
 }
 
-table{
-    background-color: rgb(37, 37, 109);
+#default{
+    background-color: rgb(190, 190, 190);
 }
-table td{
-    background-color: rgb(8, 48, 35);
+.td{
+    background-color: rgb(189, 111, 111);
 }
 

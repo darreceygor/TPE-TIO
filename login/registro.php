@@ -1,5 +1,5 @@
 <?php
-include_once('../templates/header.php') ;
+include_once('./templates/header.php') ;
 
    function renderForm(){
        echo '
@@ -28,4 +28,4 @@ include_once('../templates/header.php') ;
     $query->execute([$userEmail,$userPassword]);
   
 }
-include_once('../templates/footer.php') ;
+include_once('./templates/footer.php') ;
